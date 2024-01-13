@@ -1,4 +1,4 @@
-# permalist-with-postgresql
+# Permalist With Postgresql
 This is a Daily To-Do List, with implementation of CRUD operations. It is connected with PostgreSQL.
 
 The outcome screenshot(s) can be found in a folder "results".
